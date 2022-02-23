@@ -7,5 +7,4 @@
 
 import Foundation
 
-print("Hello, World!")
-
+print(testOperation(12, 24))
